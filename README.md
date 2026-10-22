@@ -69,7 +69,7 @@ Extracted 8 partition(s) to output/
 ### From source (requires Go 1.22+)
 
 ```bash
-git clone https://github.com/soe1hom-arch/lpunpack.git
+git clone https://github.com/soe1hom-arch/lpunpack-go.git
 cd lpunpack
 go build -o lpunpack .
 ```
